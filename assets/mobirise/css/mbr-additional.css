@@ -1601,3 +1601,34 @@ body {
 .cid-raeIwRv2x9 DIV {
   color: #232323;
 }
+.cid-raeRq8Ol8J {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-raeRq8Ol8J .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-raeSqZwTbs {
+  background: #ffffff;
+}
+.cid-raeSqZwTbs .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-raeSqZwTbs .mbr-figure {
+  margin: 0 auto;
+}
+.cid-raeSqZwTbs figcaption {
+  position: relative;
+}
+.cid-raeSqZwTbs figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-raeSqZwTbs .image-block {
+    width: 100% !important;
+  }
+}
