@@ -1632,3 +1632,33 @@ body {
     width: 100% !important;
   }
 }
+.cid-raeVcWMlgd {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-raeVcWMlgd .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-raeVnJSM2v {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-raeVnJSM2v .image-block {
+  margin: auto;
+}
+.cid-raeVnJSM2v figcaption {
+  position: relative;
+}
+.cid-raeVnJSM2v figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-raeVnJSM2v .image-block {
+    width: 100% !important;
+  }
+}
