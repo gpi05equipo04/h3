@@ -1660,3 +1660,34 @@ body {
     width: 100% !important;
   }
 }
+.cid-ravAfBP6g0 {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ravAfBP6g0 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-ravAb4igio {
+  background: #ffffff;
+}
+.cid-ravAb4igio .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-ravAb4igio .mbr-figure {
+  margin: 0 auto;
+}
+.cid-ravAb4igio figcaption {
+  position: relative;
+}
+.cid-ravAb4igio figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-ravAb4igio .image-block {
+    width: 100% !important;
+  }
+}
