@@ -28,7 +28,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#18c7ce"
+        "#18c7ce",
+        "#000000"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -566,7 +567,7 @@
               }
             },
             "DIV": {
-              "color": "#232323",
+              "color": "#000000",
               "text-align": "left"
             }
           },
@@ -612,7 +613,7 @@
               }
             },
             "DIV": {
-              "color": "#232323",
+              "color": "#000000",
               "text-align": "left"
             }
           },
