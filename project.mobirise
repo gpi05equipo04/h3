@@ -35,7 +35,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.2",
     "siteFonts": [],
-    "uniqCompNum": 19,
+    "uniqCompNum": 20,
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1493,6 +1493,24 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#18c7ce\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Instituto Nacional de Estadística e Informática. (2018). Censos Nacionales 2017: XII de Población y VII de Vivienda. Lima, Perú.</p><p>Veliz, M., Aquino N., Aliaga, K., Yupanqui, E., Moran, J., y Benítes, Y. (2018). Hospital San Juan de Lurigancho: Análisis de la situación de salud hospitalaria. Recuperado de https://www.hospitalsjl.gob.pe/ArchivosDescarga/Epidemiologia/BE/2018/ASIS2018.pdf</p><p>ESTADOS DEL ARTE</p><p><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rbybpSQweZ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-j"
         }
       ]
     }
